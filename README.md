@@ -1,2 +1,3 @@
 # CSE-134B-HW5
  
+The main thing I focused on when "pruning" my website were deleting repetitive features or things that just didn't make sense within the context of a student portfolio. This included deleting serveral contact forms and settling on using the form implemented in HW4 or redirection buttons that were already addressed in the toolbar. For my own organization, I moved all my images into a separate folder for house cleaning. I think I am pretty content with the styling I had throughout the homeworks so I didn't change much on that front. I think my website gets to the point of showing what I want so there weren't many changes to make for me. 
