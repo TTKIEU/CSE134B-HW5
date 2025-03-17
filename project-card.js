@@ -19,6 +19,7 @@ class ProjectCard extends HTMLElement {
 
         this.shadowRoot.appendChild(link);
         this.shadowRoot.appendChild(template.content.cloneNode(true));
+        
     }
 
     connectedCallback() {

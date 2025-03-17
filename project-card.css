@@ -66,3 +66,33 @@ a:hover {
     max-width: 2000px;        
     margin: auto; 
 }
+.project-search {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.project-search form {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+#Psrch {
+    width: 100%;
+}
+
+#language-filter {
+    width: 100%;
+}
+
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
